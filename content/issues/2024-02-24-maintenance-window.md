@@ -1,9 +1,10 @@
 ---
-title: Maintenance Announcement 
-date: 2024-02-24 10:35:00 
-informational: true
-pin: true 
 section: issue
+title: Szeepmin Notice
+date: 2024-05-18T16:50:39.930Z
+informational: true
+pin: true
+resolvedWhen: ""
+severity: notice
 ---
-
-We will shut down our network at midnight UTC on Feb 24. This does not affect the current status.
+The **Szeepmin** web admin interface is still in development.
