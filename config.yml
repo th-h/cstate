@@ -78,15 +78,16 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
+    - name: Uncategorized
+      untitled: true
+      closed: false
     - name: Szafshosting-Server
       description: herde.szaf.org ist der aktuelle Szafshosting-Server.
       closed: false
     - name: Szafs-Shell-Server
       description: winterlamm.szaf.org ist derzeit mupfel.szaf.org
       closed: false
-    - name: Uncategorized
-      untitled: true
-      closed: false
+      untitled: false
   description: Wenn einmal wieder der Drache draufgefallen ist, erfahren Sie es hier zuerst.
   enableCustomHTML: true
   useLargeHeaderDesign: false
