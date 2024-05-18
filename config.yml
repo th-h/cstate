@@ -2,7 +2,7 @@ title: Szafshosting Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://status.szafshosting.de/
+baseURL: https://status.szafshosting.de
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
@@ -39,7 +39,7 @@ params:
   systems:
     - name: Szafshosting-Website
       description: Main Website
-      category: Uncategorized
+      category: nocat
       link: https://example.com/
     - name: E-Mail
       category: Szafshosting-Server
@@ -78,7 +78,7 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: Uncategorized
+    - name: nocat
       untitled: true
       closed: false
     - name: Szafshosting-Server
