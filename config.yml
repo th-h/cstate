@@ -40,7 +40,6 @@ params:
     - name: Szafshosting-Website
       description: Main Website
       category: nocat
-      link: https://example.com/
     - name: E-Mail
       category: Szafshosting-Server
       description: SMTP, IMAP, POP3
