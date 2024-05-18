@@ -84,7 +84,7 @@ params:
     - name: Szafs-Shell-Server
       description: winterlamm.szaf.org ist derzeit mupfel.szaf.org
       closed: true
-    - name: Uncategorizd
+    - name: Uncategorized
       untitled: true
       closed: true
   description: Wenn einmal wieder der Drache draufgefallen ist, erfahren Sie es hier zuerst.
