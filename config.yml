@@ -80,13 +80,13 @@ params:
   categories:
     - name: Szafshosting-Server
       description: herde.szaf.org ist der aktuelle Szafshosting-Server.
-      closed: true
+      closed: false
     - name: Szafs-Shell-Server
       description: winterlamm.szaf.org ist derzeit mupfel.szaf.org
-      closed: true
+      closed: false
     - name: Uncategorized
       untitled: true
-      closed: true
+      closed: false
   description: Wenn einmal wieder der Drache draufgefallen ist, erfahren Sie es hier zuerst.
   enableCustomHTML: true
   useLargeHeaderDesign: false
