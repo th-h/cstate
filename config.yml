@@ -73,6 +73,9 @@ params:
     - name: lists.szaf.org
       description: Mailing Lists
       category: Weitere Szafs-Dienste
+    - name: irc.szaf.org
+      description: IRC-Server
+      category: Weitere Szafs-Dienste
     - name: bitlbee.szaf.org
       description: Bitlbee Server
       category: Weitere Szafs-Dienste
