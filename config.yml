@@ -38,7 +38,7 @@ params:
   down: "#e60000"
   systems:
     - name: Szafshosting-Website
-      description: Main Website
+      description: Hosting Website
       category: nocat
     - name: E-Mail
       category: Szafshosting-Server
@@ -61,6 +61,27 @@ params:
     - name: Hirte
       category: Szafs-Shell-Server
       description: Eggdrop
+    - name: szaf.org Website
+      description: Main Website
+      category: Weitere Szafs-Dienste
+    - name: news.szaf.org
+      description: Newsserver
+      category: Weitere Szafs-Dienste
+    - name: news.szaf.org Website
+      description: Newsserver Website
+      category: Weitere Szafs-Dienste
+    - name: lists.szaf.org
+      description: Mailing Lists
+      category: Weitere Szafs-Dienste
+    - name: bitlbee.szaf.org
+      description: Bitlbee Server
+      category: Weitere Szafs-Dienste
+    - name: lists.virtcomm.de
+      description: Mailing Lists
+      category: VirtComm-Services
+    - name: code.virtcomm.de
+      description: Software Forge & Git Repositories
+      category: VirtComm-Services
   dateFormat: 2006-01-02 at 15:04 UTC
   brand: "#314e8c"
   enableLastMod: true
@@ -86,7 +107,12 @@ params:
     - name: Szafs-Shell-Server
       description: winterlamm.szaf.org ist derzeit mupfel.szaf.org
       closed: false
-      untitled: false
+    - name: Weitere Szafs-Dienste
+      description: Webseiten, Mailinglisten und was noch so ist.
+      closed: true
+    - name: VirtComm-Services
+      description: Angebote von VirtComm
+      closed: true
   description: Wenn einmal wieder der Drache draufgefallen ist, erfahren Sie es hier zuerst.
   enableCustomHTML: true
   useLargeHeaderDesign: false
